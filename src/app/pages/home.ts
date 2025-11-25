@@ -3,7 +3,7 @@ import { Component, signal } from '@angular/core';
 @Component({
   selector: 'home',
   template: `
-    <h1>Hom AGAIN</h1>
+    <h1>Hom AGAIN reee</h1>
     <div>{{count()}}</div>
     <button (click)="handleClick()">clickMe</button>
     `,
